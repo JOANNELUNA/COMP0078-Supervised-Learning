@@ -1,0 +1,1 @@
+Total: 82/100 Part I: 40/40 Part II: E1: 4/4 E2: 4/4 E3: 4/4 Q1-Q4: 8/8 Part III: (a): 6/6 (b): 4/6 Missing observation that there is a bias towards smaller sample complexity estimates. Since the estimate of m is incrementally increased until the test error <= 0.1 condition is satisifed, the sampled data could satisfy this condition.(-2pts) (c): 6/6 (d): 6/6 (e): 0/16 Missing
